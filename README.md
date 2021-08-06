@@ -8,11 +8,3 @@ Hi, I'm Paulo Deodoro! 👋
 
 🇧🇷 Currently living in Recife, Brazil
 
-I'm currently focused on
-🎓 Complete my graduation on Computer Engineering
-👨‍💻 Software Engeneering (Software Development, Software Architecture, Software Quality, etc.)
-👨‍💻 Frontend Development with Angular and Typescript
-👨‍💻 Backend Development with .NET Core
-Find me elsewhere 🌎
-Linkedin @alfigueiroab
-Gmail alfigueiroab@gmail.com
