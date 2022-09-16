@@ -1,6 +1,6 @@
 Hi, I'm Paulo Deodoro! 👋
 
-🔭 Currently working at CESAR (Recife) as Software Engineer
+🔭 Currently working at Nubank as Software Engineer
 
 💬 Ask me about Web Development
 
